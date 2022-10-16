@@ -23,8 +23,8 @@ Step 04: Change the firebase account to that project in android studio.
 Toolse->firebase->realtime database connect to your acccount.   
 And Enable authendication and Cloud Storage     
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/spoofcolors.appspot.com/o/github%2FScreenshot%20(18)_LI.jpg?alt=media&token=57968540-7164-4c63-96c6-f5a76a0ea263)
-Step 06:Include the " c-bot-Firebase Database.json " File in firebase real time database. the file will available in this repositorie.   
-Step 05:Then Run the Code it's run the Emulator, and you not install Emulator install this First.
+Step 05:Include the " c-bot-Firebase Database.json " File in firebase real time database. the file will available in this repositorie.   
+Step 06:Then Run the Code it's run the Emulator, and you not install Emulator install this First.
 ## Demo
 
 Project Demo video
