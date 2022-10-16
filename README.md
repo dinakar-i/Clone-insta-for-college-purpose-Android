@@ -1,7 +1,5 @@
 
-# Project Title
-
-Clone-insta-for-college-purpose-Android-
+# Clone-insta-for-college-purpose-Android
 
 
 ## Authors
