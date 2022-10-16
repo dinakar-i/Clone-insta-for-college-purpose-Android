@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/create"
+        android:icon="@drawable/ic_baseline_add_box_24"
+        android:title="create"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/news"
+        android:icon="@drawable/ic_baseline_newspaper_24"
+        android:title="news"
+        app:showAsAction="ifRoom"
+        android:actionLayout="@layout/news_notification_badge"
+        />
+    <item
+        android:id="@+id/message"
+        android:icon="@drawable/ic_baseline_email_24"
+        android:title="Message"
+        app:showAsAction="ifRoom"
+        android:actionLayout="@layout/notification_badge_layout"
+        />
+</menu>

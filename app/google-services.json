@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "748802895904",
+    "firebase_url": "https://cbot-11436-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cbot-11436",
+    "storage_bucket": "cbot-11436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748802895904:android:9cb21dabb4ef2338cf0c45",
+        "android_client_info": {
+          "package_name": "com.spoof.CBOT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748802895904-c9n265sbu9oe7kor9ae2q4h5hs2g3t0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH0m91p2jOrDWktbTvSEFJsOD-EKghEh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748802895904-c9n265sbu9oe7kor9ae2q4h5hs2g3t0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LM/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.38425925925925924" />
+        <entry key="..\:/LM/app/src/main/res/drawable/action_bar_style.xml" value="0.3125" />
+        <entry key="..\:/LM/app/src/main/res/drawable/bio_input_design.xml" value="0.305" />
+        <entry key="..\:/LM/app/src/main/res/drawable/ic_baseline_forest_24.xml" value="0.2465" />
+        <entry key="..\:/LM/app/src/main/res/drawable/ic_baseline_push_pin_24.xml" value="0.305" />
+        <entry key="..\:/LM/app/src/main/res/drawable/ic_launcher_background.xml" value="0.38425925925925924" />
+        <entry key="..\:/LM/app/src/main/res/drawable/iconselecter.xml" value="0.3125" />
+        <entry key="..\:/LM/app/src/main/res/drawable/inputborder.xml" value="0.39166666666666666" />
+        <entry key="..\:/LM/app/src/main/res/drawable/inputboxdesign.xml" value="0.2465" />
+        <entry key="..\:/LM/app/src/main/res/drawable/inputboxdesing.xml" value="0.3125" />
+        <entry key="..\:/LM/app/src/main/res/drawable/memories_box_design.xml" value="0.2465" />
+        <entry key="..\:/LM/app/src/main/res/drawable/nav_bar_border_style.xml" value="0.305" />
+        <entry key="..\:/LM/app/src/main/res/drawable/nav_border_design.xml" value="0.2095" />
+        <entry key="..\:/LM/app/src/main/res/drawable/porpose_btn_style.xml" value="0.305" />
+        <entry key="..\:/LM/app/src/main/res/drawable/signupbagedesign.xml" value="0.3125" />
+        <entry key="..\:/LM/app/src/main/res/layout/activity_checking.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/activity_comments.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/activity_edit_profile.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/activity_gallery.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/activity_login.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/activity_main.xml" value="0.36820652173913043" />
+        <entry key="..\:/LM/app/src/main/res/layout/activity_post_detail.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/activity_post_incident.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/activity_post_status.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/activity_sign_up.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/activity_start.xml" value="0.33" />
+        <entry key="..\:/LM/app/src/main/res/layout/activity_status.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/add_status.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/comments.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/fragment_explore.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/fragment_first.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/fragment_home.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/fragment_memories.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/fragment_pin.xml" value="0.33" />
+        <entry key="..\:/LM/app/src/main/res/layout/fragment_post.xml" value="0.33" />
+        <entry key="..\:/LM/app/src/main/res/layout/fragment_post_detail.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/LM/app/src/main/res/layout/fragment_second.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/gallery_layout.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/memories_item.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/myphoto_iteam.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/navigation_header.xml" value="0.26222826086956524" />
+        <entry key="..\:/LM/app/src/main/res/layout/navigationheader.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/popimage_layout.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/popimg.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/postiteam.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/status_item.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/layout/useriteam.xml" value="0.35280797101449274" />
+        <entry key="..\:/LM/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/LM/app/src/main/res/menu/explore_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/LM/app/src/main/res/menu/menu_in_actionbar.xml" value="0.38697916666666665" />
+        <entry key="..\:/LM/app/src/main/res/menu/navigation_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/LM/app/src/main/res/menu/post_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/LM/app/src/main/res/menu/profile_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/LM/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2145" />
+        <entry key="..\:/LM/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3125" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/action_bar_style.xml" value="0.24722222222222223" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/badge_notify.xml" value="0.403125" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/bio_input_design.xml" value="0.2935185185185185" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/chat_item_right.xml" value="0.39692307692307693" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/chat_style_left.xml" value="0.39692307692307693" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/chat_style_right.xml" value="0.39692307692307693" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/fun_banner_desgin.xml" value="0.403125" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/ic_baseline_add_box_24.xml" value="0.39692307692307693" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.39692307692307693" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/ic_baseline_add_circle_24_foreground.xml" value="0.39692307692307693" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.39692307692307693" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.39692307692307693" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/ic_baseline_comment_24.xml" value="0.403125" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.39692307692307693" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.39692307692307693" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/ic_baseline_thumb_up_fill.xml" value="0.39692307692307693" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/ic_baseline_thumb_up_outline.xml" value="0.39692307692307693" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/iconselecter.xml" value="0.24722222222222223" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/inputboxdesign.xml" value="0.2935185185185185" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/memories_box_design.xml" value="0.403125" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/nav_border_design.xml" value="0.2898148148148148" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/pin_post_bottom_navigation.xml" value="0.24722222222222223" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/porpose_btn_style.xml" value="0.24722222222222223" />
+        <entry key="..\:/Project C/LM/app/src/main/res/drawable/site_au_style.xml" value="0.403125" />
+        <entry key="..\:/Project C/LM/app/src/main/res/font/fonts.xml" value="0.4171875" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_auactivity.xml" value="0.33" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_chat.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_chat_image.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_checking.xml" value="0.33" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_comments.xml" value="0.32608695652173914" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_edit_profile.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_fligt_fight.xml" value="0.3736413043478261" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_gallery.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_login.xml" value="0.32608695652173914" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_main.xml" value="0.37228260869565216" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_message.xml" value="0.2536231884057971" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_news.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_post_detail.xml" value="0.32608695652173914" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_post_incident.xml" value="0.37681159420289856" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_show_partners.xml" value="0.33" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_start.xml" value="0.259963768115942" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_upload_news.xml" value="0.33" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/activity_web.xml" value="0.25" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/chat_item_left.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/chat_item_right.xml" value="0.33" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/comments.xml" value="0.32608695652173914" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/content_news.xml" value="0.37681159420289856" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/forgot_email_send.xml" value="0.37681159420289856" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/fragment_explore.xml" value="0.33152173913043476" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/fragment_first.xml" value="0.18819655521783182" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/fragment_fun.xml" value="0.37228260869565216" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/fragment_home.xml" value="0.259963768115942" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/fragment_memories.xml" value="0.38333333333333336" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/fragment_partners.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/fragment_pin.xml" value="0.32608695652173914" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/fragment_post.xml" value="0.32608695652173914" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/fragment_profile.xml" value="0.32608695652173914" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/fragment_request.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/fragment_second.xml" value="0.18819655521783182" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/funbanner.xml" value="0.25" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/gallery_layout.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/memories_item.xml" value="0.36231884057971014" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/message_user_list.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/myphoto_iteam.xml" value="0.32608695652173914" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/navigation_header.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/news_item.xml" value="0.35597826086956524" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/news_notification_badge.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/notification_badge_layout.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/popimage_layout.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/postiteam.xml" value="0.32608695652173914" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/site_au.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/switch_item.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/useriteam.xml" value="0.33152173913043476" />
+        <entry key="..\:/Project C/LM/app/src/main/res/layout/videoiteam.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/menu/menu_in_actionbar.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/menu/navigation_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/menu/partners_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/menu/post_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/menu/profile_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project C/LM/app/src/main/res/mipmap-anydpi-v26/bk3.xml" value="0.23489583333333333" />
+        <entry key="..\:/Project C/LM/app/src/main/res/mipmap-anydpi-v26/bk5.xml" value="0.23489583333333333" />
+        <entry key="..\:/Project C/LM/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.39692307692307693" />
+        <entry key="..\:/Project C/LM/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.10925925925925926" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
